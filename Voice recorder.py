@@ -1,3 +1,4 @@
+# code by karan
 import sounddevice
 from scipy.io.wavfile import write
 fs=44100 #sample_rate
